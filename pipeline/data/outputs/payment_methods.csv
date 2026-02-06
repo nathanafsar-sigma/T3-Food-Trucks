@@ -1,0 +1,3 @@
+payment_method,transaction_count,total_revenue,avg_transaction_value
+cash,2961,1896172.0,640.3823032759203
+card,2511,1631727.0,649.831541218638

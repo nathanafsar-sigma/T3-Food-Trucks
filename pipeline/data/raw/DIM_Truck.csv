@@ -1,0 +1,7 @@
+truck_id,truck_name,truck_description,has_card_reader,fsa_rating
+1,Burrito Madness,An authentic taste of Mexico.,1,4
+2,Kings of Kebabs,Locally-sourced meat cooked over a charcoal grill.,1,2
+3,Cupcakes by Michelle,"Handcrafted cupcakes made with high-quality, organic ingredients.",1,5
+4,Hartmann's Jellied Eels,A taste of history with this classic English dish.,1,4
+5,Yoghurt Heaven,"All the great tastes, but only some of the calories!",1,4
+6,SuperSmoothie,"Pick any fruit or vegetable, and we'll make you a delicious, healthy, multi-vitamin shake. Live well; live wild.",0,3
